@@ -3,3 +3,4 @@
 ### Module: Retro Turbo-Encabulator
 by Richard McCormick<br>
 Module to prevent side fumbling from the lunar waneshaft.<br>
+<br>Add sensors to the module that detect if the waneshaft fumbles in any way.<br>
